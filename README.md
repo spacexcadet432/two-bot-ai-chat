@@ -38,7 +38,7 @@ A Python terminal application that runs a two-bot AI conversation through OpenRo
 4. Optional: test the OpenRouter connection:
 
    ```powershell
-   python test_groq.py
+   python test_openrouter.py
    ```
 
 5. Run the conversation:
@@ -52,7 +52,7 @@ A Python terminal application that runs a two-bot AI conversation through OpenRo
 ## Files
 
 - `main.py`: main two-bot conversation CLI.
-- `test_groq.py`: quick OpenRouter connection test.
+- `test_openrouter.py`: quick OpenRouter connection test.
 - `requirements.txt`: Python dependencies.
 - `.env.example`: example environment variable file.
 
